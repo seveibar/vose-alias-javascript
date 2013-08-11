@@ -47,6 +47,10 @@ function getVose(plist){
 }
 
 
+/*
+
+// To test probabilities, uncomment the following code
+
 var vose = getVose([
     ["a",10],["b",20],["c",70]
 ]);
@@ -60,3 +64,4 @@ console.log("Below are the percentage of times a letter was selected after 10000
 console.log("A",d.a);
 console.log("B",d.b);
 console.log("C",d.c);
+*/
